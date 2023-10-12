@@ -9,3 +9,4 @@
         "Szexiszex"
     -Tibi590
 <a href="https://github.com/tibi590#tibi590">Tibi590</a>
+<a href="https://pataky.hu/">Pakaki</a>
